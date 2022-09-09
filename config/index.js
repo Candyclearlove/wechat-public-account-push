@@ -31,7 +31,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆",
+      name: "小宝贝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oy5Iy6bo-qXJlHgh-IK0q_6nH5Ls",
       // 你想对他发送的模板消息的模板ID
@@ -104,8 +104,6 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2015-05-01"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2020-01-04"},
-    // 退伍日, 不用可以删掉
     {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
